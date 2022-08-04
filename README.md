@@ -1,2 +1,1 @@
-# IMAMU_bot
-Registration bot
+# Registration bot
